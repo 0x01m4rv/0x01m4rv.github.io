@@ -5,13 +5,13 @@
   "userimg": "https://avatars3.githubusercontent.com/u/16485430?v=4",
   "sort": "star",
   "order": "asc",
-  "includeFork": false,
+  "includeFork": true,
   "theme": "dark.css",
   "types": [
    "owner"
   ],
-  "twitter": null,
-  "linkedin": null,
+  "twitter": "l14ck3r",
+  "linkedin": "clintjosy",
   "medium": null,
   "dribbble": null
  }
