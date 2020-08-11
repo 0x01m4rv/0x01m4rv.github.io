@@ -3,6 +3,8 @@
 html {
   height:100%;
   background-image: url('https://0x01m4rv.github.io/wedqwed.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 nav {
